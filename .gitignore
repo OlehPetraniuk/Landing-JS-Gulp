@@ -1,7 +1,9 @@
 ./idea
+.vscode
 build
 node_modules
 npm-debug.log
+package-lock.json
 .DS_Store
 ### Windows template
 # Windows image file caches
