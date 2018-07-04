@@ -4,11 +4,9 @@
   "description": "This is landing on the glup",
   "main": "index.js",
   "dependencies": {
-<<<<<<< HEAD
-=======
     "font-awesome": "^4.7.0",
     "normalize.scss": "^0.1.0",
->>>>>>> inception
+
     "npm": "^6.1.0"
   },
   "devDependencies": {
@@ -21,12 +19,9 @@
     "rimraf": "^2.6.2"
   },
   "scripts": {
-<<<<<<< HEAD
-    "test": "echo \"Error: no test specified\" && exit 1"
-=======
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "gulp"
->>>>>>> inception
+
   },
   "repository": {
     "type": "git",

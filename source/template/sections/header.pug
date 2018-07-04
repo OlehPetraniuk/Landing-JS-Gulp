@@ -1,18 +1,10 @@
 header.header
-    .header__top
-        .container
-<<<<<<< HEAD
-            .contacts
-                a.contact(href="tel:+380639999999")
-                    i.fa.fa-mobile(aria-hidden="true")
-                    span.contact__text 6337 3128
-    .header__bottom
-
-=======
-            include contact
+  .header__top
     .container
-        .header__bottom
-            .logo: img.logo__picture(src="images/logo.png" alt="picture")
-            include nav
-            a.button.header__button.button--red(href="#") Free Consultation
->>>>>>> inception
+      include contact
+  .container
+    .header__bottom
+      .logo: img.logo__picture(src="images/logo.png" alt="picture")
+      include nav
+      a.button.header__button.button--red(href="#") Free Consultation
+
