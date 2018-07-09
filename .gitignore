@@ -1,9 +1,7 @@
 ./idea
-<<<<<<< HEAD
 .vscode/
-=======
 .vscode
->>>>>>> inception
+
 build
 node_modules
 npm-debug.log
